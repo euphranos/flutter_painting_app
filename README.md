@@ -1,4 +1,4 @@
-# Flutter Painting Game
+# Flutter Painting App
 
 ## Features
 
@@ -7,15 +7,15 @@
 - **User-Friendly Interface:** Simple and intuitive design for an enjoyable experience.
 
 ## Screenshots
-![Screenshot_2024-07-03_at_17 47 05-removebg-preview](https://github.com/euphranos/flutter_painting_game/assets/109268253/e1188ad2-6bd2-4dcb-8e82-26944ddb2b16)
-![Screenshot_2024-07-03_at_17 49 29-removebg-preview](https://github.com/euphranos/flutter_painting_game/assets/109268253/75422e11-f237-4026-b0a9-86f9466662e6)
+![Screenshot_2024-07-03_at_17 47 05-removebg-preview](https://github.com/euphranos/flutter_painting_app/assets/109268253/d8e64685-46d7-4d61-bfdd-395ca6004f67)
+![Screenshot_2024-07-03_at_17 49 29-removebg-preview](https://github.com/euphranos/flutter_painting_app/assets/109268253/4fd0d48d-d2b0-4a7b-997c-b3c8a1dfa359)
 
 
 
 
 ## Installation
 
-To run the Flutter Painting Game on your local machine, follow these steps:
+To run the Flutter Painting App on your local machine, follow these steps:
 
 ### Prerequisites
 
@@ -26,6 +26,6 @@ To run the Flutter Painting Game on your local machine, follow these steps:
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/euphranos/flutter_painting_game.git
+git clone https://github.com/euphranos/flutter_painting_app.git
 
 
